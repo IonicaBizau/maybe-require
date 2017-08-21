@@ -1,0 +1,40 @@
+{
+  "name": "maybe-require",
+  "description": "Require a file if it exists.",
+  "keywords": [
+    "maybe",
+    "require",
+    "a",
+    "file",
+    "if",
+    "it",
+    "exists"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/maybe-require#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/maybe-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/maybe-require/issues"
+  }
+}
